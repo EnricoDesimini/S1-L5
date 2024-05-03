@@ -1,0 +1,16 @@
+body {
+    color:#155ea7;
+    font-size: 1.2rem;
+    font-family:'Open Sans', sans-serif;
+line-height: 7.65;
+
+}
+ 
+img {
+    border-radius: 1 ;
+    width: 400px;
+}
+
+header > img {
+    size: 12%;
+}
